@@ -1,5 +1,4 @@
 # Spreadsheet
-Java Spreadsheet
 This is a Java-based spreadsheet program that allows you to input, edit, and manipulate data using a grid-like interface. It includes various types of cells, including integer, double, string, and date cells.
 
 Classes
